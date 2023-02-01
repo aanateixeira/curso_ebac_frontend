@@ -1,0 +1,11 @@
+form,
+h1 {
+    margin-left: 20px;
+}
+form input {
+    max-width: 50%;
+}
+
+button {
+    margin-top: 20px;
+}
